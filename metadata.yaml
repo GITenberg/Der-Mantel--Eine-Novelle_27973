@@ -1,0 +1,41 @@
+_repo: Der-Mantel--Eine-Novelle_27973
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Kassner, Rudolf
+    birthdate: 1873
+    deathdate: 1959
+    gutenberg_agent_id: '26800'
+    url: http://www.gutenberg.org/2009/agents/26800
+    wikipedia: http://de.wikipedia.org/wiki/Rudolf_Kassner
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolaj
+    - Гоголь, Николай Васильевич
+    - Gogol, Nikolay Vasilyevich
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2009-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27973'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcc 'PG'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+title: 'Der Mantel: Eine Novelle'
+url: http://www.gutenberg.org/ebooks/27973
