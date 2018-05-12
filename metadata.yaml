@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/531
     wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27973#Der-Mantel--Eine-Novelle
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2009-02-03'
 gutenberg_type: Text
